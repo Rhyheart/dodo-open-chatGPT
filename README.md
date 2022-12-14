@@ -41,7 +41,7 @@
 
 ## 使用步骤
 
-1、创建机器人
+1、[> 创建DoDo机器人](https://open.imdodo.com/go/introduction/deployment.html)
 
 2、将机器人拉入测试群
 
