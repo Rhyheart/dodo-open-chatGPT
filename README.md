@@ -24,7 +24,7 @@
 
 ## 项目介绍
 
-本项目包含了ChatGPT智能AI交互机器人，基于DoDo开放平台官方 [.Net SDK](https://github.com/dodo-open/dodo-open-net)
+本项目包含了DoDo版ChatGPT智能AI交互机器人，基于DoDo开放平台官方 [.Net SDK](https://github.com/dodo-open/dodo-open-net)
 
 
 ## 开发工具
