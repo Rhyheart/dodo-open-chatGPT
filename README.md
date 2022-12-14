@@ -26,6 +26,7 @@
 
 本项目包含了DoDo版ChatGPT智能AI交互机器人，基于DoDo开放平台官方 [.Net SDK](https://github.com/dodo-open/dodo-open-net)
 
+本项目的ChatGPT最大支持30条历史会话，支持消息Token数动态调整，防止Token数超限报错
 
 ## 开发工具
 
