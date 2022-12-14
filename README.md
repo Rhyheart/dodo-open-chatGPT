@@ -41,11 +41,13 @@
 
 ## 使用步骤
 
-1、[> 创建DoDo机器人](https://open.imdodo.com/go/introduction/deployment.html)
+1、[创建DoDo机器人](https://open.imdodo.com/go/introduction/deployment.html)
 
 2、将机器人拉入测试群
 
-3、下载解压执行程序
+3、下载安装依赖环境[dotnet-runtime-6.0.6-win-x64.exe](https://download.visualstudio.microsoft.com/download/pr/7989338b-8ae9-4a5d-8425-020148016812/c26361fde7f706279265a505b4d1d93a/dotnet-runtime-6.0.6-win-x64.exe)
+
+3、下载解压执行程序 [Release](https://github.com/Rhyheart/dodo-open-chatGPT/releases)
 
 4、维护 [配置文件](https://github.com/Rhyheart/dodo-open-chatGPT/blob/main/src/DoDo.Open.ChatGPT/appsettings.json)
 
